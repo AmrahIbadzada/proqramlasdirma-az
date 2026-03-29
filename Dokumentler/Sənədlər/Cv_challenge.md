@@ -31,14 +31,14 @@ Proqramçı CV-si standart bir CV-dən fərqlidir. İşəgötürənlər teknik b
 
 ```
 Ad Soyad
-📧 email@gmail.com  |  🔗 github.com/adın  |  💼 linkedin.com/in/adın
-  portfolio-siten.com  |    Bakı, Azərbaycan
+  email@gmail.com  |   github.com/adın  |   linkedin.com/in/adın
+  portfolio-siten.com  | Bakı, Azərbaycan
 ```
 
 **Nə yazma:**
-- ❌ Şəkil (Şirkətdən şirkətə, ölkədən ölkəyə dəyişə bilər)
-- ❌ Doğum tarixi, nikah statusu
-- ❌ Ev ünvanının tam detalları
+- X Şəkil (Şirkətdən şirkətə, ölkədən ölkəyə dəyişə bilər)
+- X Doğum tarixi, nikah statusu
+- X Ev ünvanının tam detalları
 
 ---
 
@@ -58,9 +58,9 @@ Alətlər:       VS Code, Postman, Figma
 ```
 
 **Nə yazma:**
-- ❌ "Microsoft Word" — əsas hesab edilir
-- ❌ Heç bilmədiyin texnologiyalar — müsahibdə bilinəcək
-- ❌ "Internet istifadəsi" — bu 2026-da CV-yə yazılmır
+- X "Microsoft Word" — əsas hesab edilir
+- X Heç bilmədiyin texnologiyalar — müsahibdə bilinəcək
+- X "Internet istifadəsi" — bu 2026-da CV-yə yazılmır
 
 ---
 
