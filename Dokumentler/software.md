@@ -1,10 +1,10 @@
-# 💻 Proqramlaşdırma — Tez-tez Verilən Suallar
+# Proqramlaşdırma - Tez-tez Verilən Suallar
 
 > Bu sənəd proqramlaşdırmaya yeni başlayan, karyera dəyişdirmək istəyən və ya öz yolunu axtaran hər kəs üçün hazırlanmışdır.
 
 ---
 
-## 🔰 Başlanğıc Sualları
+## Başlanğıc Sualları
 
 <details>
 <summary><b>Hansı dildən başlamalıyam?</b></summary>
@@ -21,7 +21,7 @@ Uzun cavab:
 - **Go** → Yüksək performanslı backend xidmətləri, DevOps alətləri
 - **Rust** → Sistem proqramlaşdırması, performans kritik tətbiqlər
 
-**Tövsiyə:** Python və ya JavaScript ilə başla — ikisinin də qaynaqları boldur, iş imkanları genişdir, öyrənmə əyriləri nisbətən yumşaqdır.
+**Tövsiyə:** Python və ya JavaScript ilə başla - ikisinin də qaynaqları boldur, iş imkanları genişdir, öyrənmə əyriləri nisbətən yumşaqdır.
 
 </details>
 
@@ -46,7 +46,7 @@ Bəli, olur. Lakin bir neçə şeyi bilmək lazımdır:
 </details>
 
 <details>
-<summary><b>Proqramlaşdırmağı necə öyrənirəm — kitabdanmı, videodanmı, kursdan?</b></summary>
+<summary><b>Proqramlaşdırmağı necə öyrənirəm - kitabdanmı, videodanmı, kursdan?</b></summary>
 
 Ən yaxşı metod birlikdə işlədiləndir:
 
@@ -75,7 +75,7 @@ Bəli, olur. Lakin bir neçə şeyi bilmək lazımdır:
 
 ---
 
-## 🎓 Kurslar və Öyrənmə
+## Kurslar və Öyrənmə
 
 <details>
 <summary><b>Pulsuz qaynaqlar varmı?</b></summary>
@@ -83,34 +83,34 @@ Bəli, olur. Lakin bir neçə şeyi bilmək lazımdır:
 Çox var! Ən yaxşıları:
 
 **Tam pulsuz platformalar:**
-- [freeCodeCamp](https://freecodecamp.org) — HTML, CSS, JS, Python, SQL, Data Science sertifikatları ilə birlikdə
-- [The Odin Project](https://theodinproject.com) — Full-stack veb inkişafı
-- [CS50x Harvard](https://cs50.harvard.edu/x) — Kompüter elmləri əsasları (ən yaxşı giriş kursu)
-- [Khan Academy](https://khanacademy.org) — Proqramlaşdırma əsasları, riyaziyyat
-- [Codecademy Free](https://codecademy.com) — İnteraktiv dərslikler (pulsuz hissəsi)
-- [MIT OpenCourseWare](https://ocw.mit.edu) — Universitetdən pulsuz dərslər
-- [roadmap.sh](https://roadmap.sh) — Detallı yol xəritələri
+- [freeCodeCamp](https://freecodecamp.org) - HTML, CSS, JS, Python, SQL, Data Science sertifikatları ilə birlikdə
+- [The Odin Project](https://theodinproject.com) - Full-stack veb inkişafı
+- [CS50x Harvard](https://cs50.harvard.edu/x) - Kompüter elmləri əsasları (ən yaxşı giriş kursu)
+- [Khan Academy](https://khanacademy.org) - Proqramlaşdırma əsasları, riyaziyyat
+- [Codecademy Free](https://codecademy.com) - İnteraktiv dərslikler (pulsuz hissəsi)
+- [MIT OpenCourseWare](https://ocw.mit.edu) - Universitetdən pulsuz dərslər
+- [roadmap.sh](https://roadmap.sh) - Detallı yol xəritələri
 
 **Pulsuz Python:**
-- [automate the boring stuff](https://automatetheboringstuff.com) — Kitab, tamamilə pulsuz online
-- [Python.org Tutorial](https://docs.python.org/3/tutorial/) — Rəsmi sənədlər
+- [automate the boring stuff](https://automatetheboringstuff.com) - Kitab, tamamilə pulsuz online
+- [Python.org Tutorial](https://docs.python.org/3/tutorial/) - Rəsmi sənədlər
 
 **Pulsuz Git/GitHub:**
-- [learngitbranching.js.org](https://learngitbranching.js.org) — Vizual Git öyrənimi
-- [GitHub Skills](https://skills.github.com) — Rəsmi GitHub dərslikləri
+- [learngitbranching.js.org](https://learngitbranching.js.org) - Vizual Git öyrənimi
+- [GitHub Skills](https://skills.github.com) - Rəsmi GitHub dərslikləri
 
 </details>
 
 <details>
 <summary><b>Pullu kurslar almağa dəyərmi?</b></summary>
 
-**Udemy kursları** — Tez-tez endirim olur (~$10-15). Alınmağa dəyər kurslar:
-- *The Web Developer Bootcamp* — Colt Steele (JavaScript/Node.js)
-- *Python Bootcamp* — Jose Portilla
-- *React - The Complete Guide* — Maximilian Schwarzmüller
-- *The Complete Java Masterclass* — Tim Buchalka
+**Udemy kursları** - Tez-tez endirim olur (~$10-15). Alınmağa dəyər kurslar:
+- *The Web Developer Bootcamp* - Colt Steele (JavaScript/Node.js)
+- *Python Bootcamp* - Jose Portilla
+- *React - The Complete Guide* - Maximilian Schwarzmüller
+- *The Complete Java Masterclass* - Tim Buchalka
 
-**Coursera Professional Certificates** — Google, IBM, Meta tərəfindən, CV-yə yazmaq üçün dəyərli:
+**Coursera Professional Certificates** - Google, IBM, Meta tərəfindən, CV-yə yazmaq üçün dəyərli:
 - Google IT Automation with Python (~$49/ay)
 - IBM Full Stack Software Developer
 - Meta Front-End Developer
@@ -141,7 +141,7 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 
 ---
 
-## 🏗️ Portfolio və Layihələr
+## Portfolio və Layihələr
 
 <details>
 <summary><b>Portfolio üçün nə qurmalıyam?</b></summary>
@@ -173,17 +173,17 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 <details>
 <summary><b>GitHub portfolio necə gücləndirilir?</b></summary>
 
-- **README.md əlavə et** — Hər layihənin nə etdiyini, nə texnologiya istifadə etdiyini yaz
-- **Ardıcıl commit et** — Hər gün nə qədər kiçik olsa da bir şey commit et
-- **Açıq mənbəyə töhfə ver** — "Good first issue" etiketli məsələlərə bax
-- **Pinned repo-lar** — Ən yaxşı 6 layihəni pin et
-- **Profil README** — `github.com/sənin-adın/sənin-adın` adında repo yarat, `README.md` əlavə et
+- **README.md əlavə et** - Hər layihənin nə etdiyini, nə texnologiya istifadə etdiyini yaz
+- **Ardıcıl commit et** - Hər gün nə qədər kiçik olsa da bir şey commit et
+- **Açıq mənbəyə töhfə ver** - "Good first issue" etiketli məsələlərə bax
+- **Pinned repo-lar** - Ən yaxşı 6 layihəni pin et
+- **Profil README** - `github.com/sənin-adın/sənin-adın` adında repo yarat, `README.md` əlavə et
 
 </details>
 
 ---
 
-## 💼 İş Axtarmaq
+## İş Axtarmaq
 
 <details>
 <summary><b>Junior olaraq iş tapmaq nə qədər çətindir?</b></summary>
@@ -192,7 +192,7 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 
 - **AI alətlərinin artması** ilə şirkətlər daha az junior işçi işə götürür
 - **LinkedIn-ə spam başvurular** artıb, seçim çətinləşib
-- **Networking kritikdir** — Konfranslara, meetuplara qatıl, açıq mənbəyə töhfə ver
+- **Networking kritikdir** - Konfranslara, meetuplara qatıl, açıq mənbəyə töhfə ver
 
 **Nə etmək lazımdır:**
 1. Portfolio-nu güçləndir (GitHub, canlı demo linkləri)
@@ -210,31 +210,31 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 - GitHub linki (portfolio layihələri ilə)
 - İstifadə etdiyin texnologiyalar (dürüst ol)
 - Nə qurduğun (nəticə yönümlü: "X sistemini qurdum, Y% sürət artımı əldə etdim")
-- Sertifikatlar (Google, IBM, AWS, Oracle — bunlar tanınır)
+- Sertifikatlar (Google, IBM, AWS, Oracle - bunlar tanınır)
 
 **Yazmamalı:**
-- "Microsoft Word bilirik" — əsas hesab edilir
-- Hər texnologiyanı sadalamaq — dürüst ol, mənimsədiklərini yaz
-- Şəkil (əksər Qərb şirkətlərinde tövsiyə edilmir)
-- Çox uzun CV — 1 səhifə kifayətdir (5 ildən az təcrübə üçün)
+- "Microsoft Word bilirik" - əsas hesab edilir
+- Hər texnologiyanı sadalamaq - dürüst ol, mənimsədiklərini yaz
+- Şəkil (şirkətdən şirkətə və ölkədən ölkəyə dəyişə bilər)
+- Çox uzun CV - 1 səhifə kifayətdir (5 ildən az təcrübə üçün)
 
 </details>
 
 <details>
-<summary><b>Müsahib hazırlığı — texniki suallar üçün nə edim?</b></summary>
+<summary><b>Müsahib hazırlığı - texniki suallar üçün nə edim?</b></summary>
 
 **Alqoritm/Data Structure müsahib hazırlığı:**
-- [LeetCode](https://leetcode.com) — Ən populyar platform, Easy-Medium problemlərdən başla
-- [NeetCode.io](https://neetcode.io) — LeetCode problemlərini kategoriya ilə öyrənmək üçün mükəmməl
-- [HackerRank](https://hackerrank.com) — Sertifikatlar + müsahib hazırlığı
+- [LeetCode](https://leetcode.com) - Ən populyar platform, Easy-Medium problemlərdən başla
+- [NeetCode.io](https://neetcode.io) - LeetCode problemlərini kategoriya ilə öyrənmək üçün mükəmməl
+- [HackerRank](https://hackerrank.com) - Sertifikatlar + müsahib hazırlığı
 
 **Sistem Dizaynı (mid/senior üçün):**
-- [System Design Primer](https://github.com/donnemartin/system-design-primer) — GitHub-da pulsuz
-- [ByteByteGo](https://bytebytego.com) — Şəkilli izahatlar
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - GitHub-da pulsuz
+- [ByteByteGo](https://bytebytego.com) - Şəkilli izahatlar
 
 **Davranış Sualları (Behavioral):**
 - STAR metodunu öyrən (Situation, Task, Action, Result)
-- "Özünü tanıt", "Zəif cəhətlərini söylə", "Bir çətin problem" — bu sualları əvvəlcədən hazırla
+- "Özünü tanıt", "Zəif cəhətlərini söylə", "Bir çətin problem" - bu sualları əvvəlcədən hazırla
 
 </details>
 
@@ -249,8 +249,8 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 
 **Uzun cavab:**
 - AI (GitHub Copilot, ChatGPT, Claude) kod yazmağı sürətləndirir, amma **nə yazıldığını anlamaq** hələ insanın işidir
-- AI-ın kodu review etmək, xəta tapmaq, arxitektura qərarları vermək, müştəri ilə ünsiyyət — bunlar insan bacarıqları tələb edir
-- **Ən böyük risk:** Proqramlaşdırmanı **anlamadan** AI ilə kod yazan insanlar — bunlar asanlıqla seçilib çıxarılır
+- AI-ın kodu review etmək, xəta tapmaq, arxitektura qərarları vermək, müştəri ilə ünsiyyət - bunlar insan bacarıqları tələb edir
+- **Ən böyük risk:** Proqramlaşdırmanı **anlamadan** AI ilə kod yazan insanlar - bunlar asanlıqla seçilib çıxarılır
 - **Ən böyük fürsət:** AI alətlərini **mənimsəyən** proqramçılar 5-10 qat daha produktiv olur
 
 **Nəticə:** AI-dan qorxma. AI-ı silah kimi istifadə etməyi öyrən.
@@ -269,7 +269,7 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 | [Codeium](https://codeium.com) | Pulsuz GitHub Copilot alternativi |
 | [v0.dev](https://v0.dev) | Komponent yaratmaq üçün (Vercel) |
 
-**Əsas qayda:** AI sənin yerinə düşünməsin — sən istiqaməti ver, AI icra etsin.
+**Əsas qayda:** AI sənin yerinə düşünməsin - sən istiqaməti ver, AI icra etsin.
 
 </details>
 
@@ -280,20 +280,20 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 <details>
 <summary><b>Hansı kod redaktorunu istifadə etməliyəm?</b></summary>
 
-**VS Code** — Ən populyar seçim. Pulsuz, sürətli, hər dil üçün extension var.
+**VS Code** - Ən populyar seçim. Pulsuz, sürətli, hər dil üçün extension var.
 
 Faydalı VS Code extension-lar:
-- `Prettier` — Kodu avtomatik formatlayır
-- `ESLint` — JavaScript xətaları göstərir
-- `Python` — Microsoft-un rəsmi Python extension-u
-- `GitLens` — Git tarixini görüntüləmək üçün
-- `GitHub Copilot` — AI kod tamamlama
-- `Thunder Client` — API test etmək üçün (Postman alternativi)
+- `Prettier` - Kodu avtomatik formatlayır
+- `ESLint` - JavaScript xətaları göstərir
+- `Python` - Microsoft-un rəsmi Python extension-u
+- `GitLens` - Git tarixini görüntüləmək üçün
+- `GitHub Copilot` - AI kod tamamlama
+- `Thunder Client` - API test etmək üçün (Postman alternativi)
 
 **Digər seçimlər:**
-- **JetBrains IDEs** (IntelliJ, PyCharm, WebStorm) — Ödənişli amma çox güclü
-- **Neovim** — Terminal əsaslı, öyrənmə əyrisi yüksək amma çox sürətli
-- **Zed** — Yeni, sürətli, AI ilə gömülü
+- **JetBrains IDEs** (IntelliJ, PyCharm, WebStorm) - Ödənişli amma çox güclü
+- **Neovim** - Terminal əsaslı, öyrənmə əyrisi yüksək amma çox sürətli
+- **Zed** - Yeni, sürətli, AI ilə gömülü
 
 </details>
 
@@ -309,8 +309,8 @@ Faydalı VS Code extension-lar:
 - GitHub/GitLab-da layihəni paylaşmağa imkan verir
 
 **Git öyrənmək üçün:**
-- [learngitbranching.js.org](https://learngitbranching.js.org) — Ən yaxşı interaktiv öyrənmə
-- [Git Handbook](https://guides.github.com/introduction/git-handbook/) — GitHub-dan rəsmi bələdçi
+- [learngitbranching.js.org](https://learngitbranching.js.org) - Ən yaxşı interaktiv öyrənmə
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/) - GitHub-dan rəsmi bələdçi
 
 **Bilməli olan əsas əmrlər:**
 ```bash
@@ -331,15 +331,15 @@ git checkout -b   # Yeni branch yarat
 
 Backend/DevOps/Sistem proqramlaşdırması planlayanlar üçün **bəli, şərtdir.**
 
-Frontend planlayanlar üçün — **lazımlı amma vacib deyil.**
+Frontend planlayanlar üçün - **lazımlı amma vacib deyil.**
 
-**Windows istifadəçiləri:** WSL2 (Windows Subsystem for Linux) qur — tam Linux mühiti Windows içindədir.
+**Windows istifadəçiləri:** WSL2 (Windows Subsystem for Linux) qur - tam Linux mühiti Windows içindədir.
 
 **macOS istifadəçiləri:** Artıq Unix-əsaslı sistemdəsən, terminal-a alış.
 
 **Linux öyrənmək üçün:**
-- [Linux Journey](https://linuxjourney.com) — Addım-addım öyrənmə
-- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — Oyun oynaraq terminal öyrənmə
+- [Linux Journey](https://linuxjourney.com) - Addım-addım öyrənmə
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) - Oyun oynaraq terminal öyrənmə
 
 </details>
 
