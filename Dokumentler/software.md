@@ -240,7 +240,7 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 
 ---
 
-## 🤖 AI və Proqramlaşdırmanın Gələcəyi
+## AI və Proqramlaşdırmanın Gələcəyi
 
 <details>
 <summary><b>AI hər şeyi kodlaşdıra bilirsə, proqramçılığı öyrənməyə dəyərmi?</b></summary>
@@ -275,7 +275,7 @@ Bootcamp-lər 3-6 aylıq intensiv proqramlardır.
 
 ---
 
-## 🛠️ Alətlər və Mühit
+## Alətlər və Mühit
 
 <details>
 <summary><b>Hansı kod redaktorunu istifadə etməliyəm?</b></summary>
@@ -345,7 +345,7 @@ Frontend planlayanlar üçün - **lazımlı amma vacib deyil.**
 
 ---
 
-## 📚 Tövsiyə Edilən Kitablar
+## Tövsiyə Edilən Kitablar
 
 | Kitab | Dil/Mövzu | Qiymət |
 |-------|-----------|--------|
@@ -359,7 +359,7 @@ Frontend planlayanlar üçün - **lazımlı amma vacib deyil.**
 
 ---
 
-## 🔗 Geniş Qaynaq Siyahısı
+## Geniş Qaynaq Siyahısı
 
 Bağlantılar və digər qaynaqlar üçün [BaglantilarVeBilgiler.md](./BaglantilarVeBilgiler.md) faylına bax.
 
