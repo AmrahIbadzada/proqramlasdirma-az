@@ -1,6 +1,8 @@
 
 >Proqramlaşdırma Sahələri və Sertifikatları
 
+![Sertifikatlar](sertifikat.png)
+
 
   <h3>Veb İnkişafı (Web Development)</h3>
   <p>
