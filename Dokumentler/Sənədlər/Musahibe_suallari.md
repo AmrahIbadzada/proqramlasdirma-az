@@ -1,4 +1,4 @@
-# 🎤 Proqramlaşdırma Müsahib Sualları
+# 🎤 Proqramlaşdırma Müsahibə Sualları
 
 > Bu sənəd proqramlaşdırma müsahiblərində ən çox soruşulan texniki və davranış suallarını əhatə edir.
 
