@@ -1,6 +1,6 @@
 # 🇦🇿 Proqramlaşdırma - Azərbaycan dilində, pulsuz, hamı üçün!
 
-> Öyrən. Qur. İrəlilə.
+> Öyrən. Qur. İrəllə.
 
 Azərbaycanda proqramlaşdırma öyrənmək istəyirsən amma **nədən başlayacağını bilmirsən?**
 Xarici dillərdə olan qaynaqlar sənə çətin gəlir?
