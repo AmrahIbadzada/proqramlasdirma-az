@@ -1,10 +1,10 @@
-# 🎤 Proqramlaşdırma Müsahibə Sualları
+# Proqramlaşdırma Müsahibə Sualları
 
 > Bu sənəd proqramlaşdırma müsahiblərində ən çox soruşulan texniki və davranış suallarını əhatə edir.
 
 ---
 
-## 🧩 Alqoritm / Data Structure Sualları
+## Alqoritm / Data Structure Sualları
 
 ### Ən Tez-tez Soruşulanlar (LeetCode Easy-Medium)
 
@@ -31,7 +31,7 @@ Bu kateqoriyalar müsahibələrdə ən çox çıxır:
 
 ---
 
-## 🖥️ Texniki Suallar — JavaScript / Frontend
+## Texniki Suallar — JavaScript / Frontend
 
 <details>
 <summary><b>JavaScript-də <code>var</code>, <code>let</code>, <code>const</code> arasındakı fərq nədir?</b></summary>
@@ -143,7 +143,7 @@ console.log("3");           // Call Stack
 
 ---
 
-## 🐍 Texniki Suallar — Python
+## Texniki Suallar — Python
 
 <details>
 <summary><b>Python-da <code>list</code> və <code>tuple</code> fərqi nədir?</b></summary>
@@ -203,7 +203,7 @@ GIL — CPython interpreter-in bir anda yalnız bir Python thread-inin icra olma
 
 ---
 
-## ☕ Texniki Suallar — Java
+## Texniki Suallar — Java
 
 <details>
 <summary><b>OOP-nun 4 əsas prinsipi nədir?</b></summary>
@@ -249,7 +249,7 @@ class Square extends Shape {
 
 ---
 
-## 🗄️ Verilənlər Bazası Sualları
+## Verilənlər Bazası Sualları
 
 <details>
 <summary><b>SQL JOIN növləri nələrdir?</b></summary>
@@ -297,7 +297,7 @@ CREATE INDEX idx_user_email ON users(email);
 
 ---
 
-## 🏗️ Sistem Dizaynı Sualları (Mid/Senior)
+## Sistem Dizaynı Sualları (Mid/Senior)
 
 <details>
 <summary><b>URL qısaldıcı (bit.ly kimi) necə dizayn edilər?</b></summary>
@@ -341,7 +341,7 @@ CREATE INDEX idx_user_email ON users(email);
 
 ---
 
-## 👔 Davranış Sualları (Behavioral)
+## Davranış Sualları (Behavioral)
 
 Bu suallar üçün **STAR metodundan** istifadə et:
 - **S**ituation — Hansı kontekst/vəziyyət idi?
@@ -387,7 +387,7 @@ Bu suallar üçün **STAR metodundan** istifadə et:
 
 ---
 
-## 📋 Müsahib Hazırlıq Yol Xəritəsi
+## Müsahibəyə Hazırlıq Yol Xəritəsi
 
 ### Junior Müsahib (0-2 il)
 - [ ] LeetCode Easy-Medium: 50-75 problem
@@ -404,7 +404,7 @@ Bu suallar üçün **STAR metodundan** istifadə et:
 
 ---
 
-## 🔗 Faydalı Qaynaqlar
+## Faydalı Qaynaqlar
 
 - [NeetCode.io](https://neetcode.io) — LeetCode problemi + video həll ⭐
 - [Pramp](https://pramp.com) — Canlı mock müsahib (pulsuz)
