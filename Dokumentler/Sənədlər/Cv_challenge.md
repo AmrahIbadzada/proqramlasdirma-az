@@ -1,16 +1,16 @@
-# 📄 CV Challenge — Proqramçı CV-ni Hazırla
+# 📄 CV Challenge - Proqramçı CV-ni Hazırla
 
 > Bu sənəd proqramlaşdırma sahəsindəki CV hazırlama meyarlarını izah edir. İş müraciəti etməzdən əvvəl bu yoxlama siyahısından istifadə et.
 
 ---
 
-## 🎯 Proqramçı CV-si Nədir?
+## Proqramçı CV-si Nədir?
 
 Proqramçı CV-si standart bir CV-dən fərqlidir. İşəgötürənlər teknik bacarıqları, real layihələri, GitHub aktivliyini və kod keyfiyyətini qiymətləndirir. **"Çox iş etmişəm" deyil, "bu nəticələri əldə etmişəm" deyirsən.**
 
 ---
 
-## ✅ CV Hazırlamazdan Əvvəl Olması Gərəkənlər
+## CV Hazırlamazdan Əvvəl Olması Gərəkənlər
 
 ### Mütləq Vacib
 - [ ] **GitHub hesabı** — ən azı 3-5 tamamlanmış layihə
@@ -25,18 +25,18 @@ Proqramçı CV-si standart bir CV-dən fərqlidir. İşəgötürənlər teknik b
 
 ---
 
-## 📝 CV Strukturu — Proqramçı üçün
+## CV Strukturu — Proqramçı üçün
 
 ### 1. Başlıq / Contact
 
 ```
 Ad Soyad
 📧 email@gmail.com  |  🔗 github.com/adın  |  💼 linkedin.com/in/adın
-🌐 portfolio-siten.com  |  📍 Bakı, Azərbaycan
+  portfolio-siten.com  |    Bakı, Azərbaycan
 ```
 
 **Nə yazma:**
-- ❌ Şəkil (Qərb şirkətləri üçün qoyma)
+- ❌ Şəkil (Şirkətdən şirkətə, ölkədən ölkəyə dəyişə bilər)
 - ❌ Doğum tarixi, nikah statusu
 - ❌ Ev ünvanının tam detalları
 
@@ -70,7 +70,7 @@ Universitetin yoxdursa BURA ən güclü hissən olmalıdır.
 
 **Format:**
 ```
-🚀 Layihə Adı | Tech Stack | [GitHub] [Demo]
+  Layihə Adı | Tech Stack | [GitHub] [Demo]
    • Nə qurduğun — konkret, fəaliyyətyönümlü cümlələr
    • Texniki detallar — hansı problemi həll etdi
    • Nəticə/Ölçüm — mümkün olarsa rəqəm ver
@@ -78,7 +78,7 @@ Universitetin yoxdursa BURA ən güclü hissən olmalıdır.
 
 **Yaxşı nümunə:**
 ```
-📦 E-Ticarət API | Node.js, Express, PostgreSQL, JWT | [GitHub] [Demo]
+  E-Ticarət API | Node.js, Express, PostgreSQL, JWT | [GitHub] [Demo]
    • 50+ məhsul üçün tam CRUD əməliyyatları ilə RESTful API qurdum
    • JWT əsaslı autentifikasiya sistemi tətbiq etdim
    • Docker ilə containerize edərək AWS EC2-yə deploy etdim
@@ -98,7 +98,7 @@ E-Ticarət Saytı
 ### 4. İş Təcrübəsi (əgər varsa)
 
 ```
-💼 Şirkət Adı — Junior Frontend Developer
+  Şirkət Adı — Junior Frontend Developer
    Yanvar 2024 – Bu günə qədər | Bakı, Azərbaycan
    • React ilə müştəri portalu yaratdım (10,000+ aktiv istifadəçi)
    • Page load vaxtını 40% azaltdım lazy loading tətbiq edərək
@@ -107,7 +107,7 @@ E-Ticarət Saytı
 
 **Freelance / Part-time də yazıla bilər:**
 ```
-🔧 Freelance Web Developer
+  Freelance Web Developer
    2023 – Bu günə qədər
    • 8+ müştəri üçün responsive veb sayt qurdum (Upwork)
    • Ortalama layihə müddəti: 2-3 həftə, müştəri məmnuniyyəti: 4.9/5
@@ -118,7 +118,7 @@ E-Ticarət Saytı
 ### 5. Təhsil
 
 ```
-🎓 Bakı Dövlət Universiteti — İnformatika Mühəndisliyi
+    X Universiteti - İnformatika Mühəndisliyi
    2020 – 2024 | GPA: 3.8/4.0 (əgər yaxşıdırsa)
 
 📜 Google IT Automation with Python — Coursera, 2023
@@ -133,7 +133,7 @@ E-Ticarət Saytı
 Çox sertifikatın varsa ayrıca bölmə aç:
 
 ```
-🏆 Sertifikatlar
+  Sertifikatlar
    • AWS Certified Developer – Associate (DVA-C02) | 2024
    • Oracle Certified Associate, Java SE 8 | 2023
    • MongoDB Certified Developer Associate | 2023
@@ -142,7 +142,7 @@ E-Ticarət Saytı
 
 ---
 
-## 🔍 ATS (Applicant Tracking System) — Avtomatik Seçim Sistemi
+##  ATS (Applicant Tracking System) — Avtomatik Seçim Sistemi
 
 Böyük şirkətlər CV-ləri avtomatik sistem ilə süzgəcdən keçirir. ATS-i keçmək üçün:
 
@@ -153,7 +153,7 @@ Böyük şirkətlər CV-ləri avtomatik sistem ilə süzgəcdən keçirir. ATS-i
 
 ---
 
-## 🚩 Cover Letter (Müraciət Məktubu)
+##  Cover Letter (Müraciət Məktubu)
 
 Hər şirkətə fərqli, personallaşdırılmış cover letter yaz. Şablon mesaj göndərmə.
 
@@ -167,7 +167,7 @@ Hər şirkətə fərqli, personallaşdırılmış cover letter yaz. Şablon mesa
 
 ---
 
-## 📊 CV Yoxlama Siyahısı
+##  CV Yoxlama Siyahısı
 
 ### Lazımdır
 - [ ] GitHub linki (aktiv layihələrlə)
@@ -186,7 +186,7 @@ Hər şirkətə fərqli, personallaşdırılmış cover letter yaz. Şablon mesa
 
 ---
 
-## 🎁 Pulsuz CV Şablonları
+##  Pulsuz CV Şablonları
 
 - [FlowCV](https://flowcv.com) — Developer üçün xüsusi şablonlar ⭐
 - [Resume.io](https://resume.io) — Müasir dizaynlar
@@ -195,7 +195,7 @@ Hər şirkətə fərqli, personallaşdırılmış cover letter yaz. Şablon mesa
 
 ---
 
-## 🔗 Faydalı Qaynaqlar
+##  Faydalı Qaynaqlar
 
 - [CV Review — r/cscareerquestions](https://reddit.com/r/cscareerquestions) — CV-ni toplulukta paylaş, rəy al
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) — CV + müsahib ⭐
@@ -204,7 +204,7 @@ Hər şirkətə fərqli, personallaşdırılmış cover letter yaz. Şablon mesa
 
 ---
 
-## 💡 Son Məsləhət
+##  Son Məsləhət
 
 **Hər başvuruya xüsusi CV göndər** — Bir neçə müxtəlif versiya hazırla:
 - Frontend Developer üçün versiya
