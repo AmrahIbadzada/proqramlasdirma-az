@@ -1,4 +1,4 @@
-# 🇦🇿 Proqramlaşdırma - Azərbaycan dilində, pulsuz, hamı üçün!
+# Proqramlaşdırma 🇦🇿 - Azərbaycan dilində, pulsuz, hamı üçün!
 
 > Öyrən. Qur. İrəllə.
 
