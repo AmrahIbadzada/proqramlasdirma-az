@@ -415,8 +415,3 @@ Bu suallar üçün **STAR metodundan** istifadə et:
 ---
 
 > 📅 Son yenilənmə: Fevral 2026
-
-
-
-> 📅 Son yenilənmə: Fevral 2026
-
