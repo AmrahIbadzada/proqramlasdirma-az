@@ -1,10 +1,10 @@
-# 🔗 Bağlantılar və Bilgilər
+# Bağlantılar və Bilgilər
 
 > Proqramlaşdırma sahəsindəki ən faydalı qaynaqlar, platformalar, YouTube kanalları, kitablar və icma burada toplanmışdır.
 
 ---
 
-## 📌 Önəmli: Haradan Başlayacağını Bilmirsənsə
+## Önəmli: Haradan Başlayacağını Bilmirsənsə
 
 Birbaşa bu saytlara get:
 
@@ -17,7 +17,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 🎓 Pulsuz Öyrənmə Platformaları
+## Pulsuz Öyrənmə Platformaları
 
 ### Ümumi Proqramlaşdırma
 - [freeCodeCamp](https://freecodecamp.org) — HTML/CSS/JS/Python/SQL, sertifikatlı, tamamilə pulsuz ⭐
@@ -70,7 +70,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 💰 Pullu Kurslar (Dəyər Daşıyanlar)
+## Pullu Kurslar (Dəyər Daşıyanlar)
 
 ### Udemy (Endirimə gözlə, ~$10-15 olur)
 - [The Web Developer Bootcamp — Colt Steele](https://udemy.com) ⭐ — JS/Node.js
@@ -131,7 +131,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 📰 Xəbər və Bloqlar
+## Xəbər və Bloqlar
 
 ### Proqramlaşdırma Xəbərləri
 - [Hacker News](https://news.ycombinator.com) — Texnologiya dünyasının nəbzi ⭐
@@ -149,7 +149,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 🛠️ Faydalı GitHub Repoları
+## Faydalı GitHub Repoları
 
 | Repo | Nə Var |
 |------|--------|
@@ -166,7 +166,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 🌐 Bulud Platformaları Öyrənmə Qaynaqları
+## Bulud Platformaları Öyrənmə Qaynaqları
 
 ### AWS
 - [AWS Skill Builder](https://skillbuilder.aws) — Rəsmi pulsuz kurslar ⭐
@@ -185,7 +185,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 🎮 Oyun Kimi Öyrənmə
+## Oyun Kimi Öyrənmə
 
 - [CodeWars](https://codewars.com) — Kata-lar ilə proqramlaşdırma bacarıqları
 - [Exercism.io](https://exercism.io) — 50+ dildə məşq
@@ -197,7 +197,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 💬 Topluluklar
+## Topluluklar
 
 | Topluluk | Platform | Nə Üçün |
 |----------|----------|---------|
@@ -213,7 +213,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 📱 Mobil İnkişaf Qaynaqları
+## Mobil İnkişaf Qaynaqları
 
 ### Android
 - [Android Developer Guides](https://developer.android.com/guide) — Rəsmi sənədlər ⭐
@@ -265,7 +265,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 🏆 Müsahib Hazırlığı
+## Müsahibə Hazırlığı
 
 - [LeetCode](https://leetcode.com) — Alqoritm sualları ⭐
 - [NeetCode.io](https://neetcode.io) — Strukturlaşdırılmış LeetCode hazırlığı ⭐
@@ -276,7 +276,7 @@ Birbaşa bu saytlara get:
 
 ---
 
-## 🔐 Şəxsi Məlumat Təhlükəsizliyi (Proqramçı olaraq)
+## Şəxsi Məlumat Təhlükəsizliyi (Proqramçı olaraq)
 
 - 2FA (İki mərhələli doğrulama) mütləq aç — Gmail, GitHub, bütün hesablarda
 - SSH açarlarını öyrən — GitHub üçün parolsuz, təhlükəsiz giriş
