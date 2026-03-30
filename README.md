@@ -16,11 +16,11 @@ Bu repo Azərbaycan dilində proqramlaşdırma öyrənmək istəyən hər kəs �
 
 | 📄 | Məzmun |
 |----|--------|
-| [software.md](./Dokumentler/software.md) | Ən çox soruşulan suallar - başlanğıcdan ekspertə |
-| [BaglantilarVeKecidler.md](./Dokumentler/BaglantilarVeKecidler.md) | Pulsuz kurslar, YouTube kanalları, kitablar, topluluklar |
-| [Proqramlasdirma.md](./Dokumentler/Sənədlər/Proqramlasdirma.md) | Bütün sahələr: Veb, Bulud, AI, Mobil, DevOps və daha çox |
-| [CV_Challenge.md](./Dokumentler/Sənədlər/Cv_challenge.md) | İş üçün hazır CV necə yazılır |
-| [Musahibe_suallari.md](./Dokumentler/Sənədlər/Musahibe_suallari) | Texniki müsahib sualları və cavabları |
+| [software.md](Dokumentler/software.md) | Ən çox soruşulan suallar - başlanğıcdan ekspertə |
+| [BaglantilarVeKecidler.md](Dokumentler/BaglantilarVeKecidler.md) | Pulsuz kurslar, YouTube kanalları, kitablar, topluluklar |
+| [Proqramlasdirma.md](Dokumentler/Sənədlər/Proqramlasdirma.md) | Bütün sahələr: Veb, Bulud, AI, Mobil, DevOps və daha çox |
+| [CV_Challenge.md](Dokumentler/Sənədlər/Cv_challenge.md) | İş üçün hazır CV necə yazılır |
+| [Musahibe_suallari.md](Dokumentler/Sənədlər/Musahibe_suallari.md) | Texniki müsahib sualları və cavabları |
 | [Proqramlasdirma_Sertifikat_Xeritesi](Dokumentler/Sənədlər/Proqramlasdirma_Sertifikat_Xeritesi.md) | Sahə × Səviyyə vizual sertifikat cədvəli |
 
 ---
