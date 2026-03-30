@@ -34,10 +34,10 @@ Bu repo Azərbaycan dilində proqramlaşdırma öyrənmək istəyən hər kəs �
 → [roadmap.sh](https://roadmap.sh) - sahəni seç, addımları izlə
 
 **Sertifikat almaq istəyirsən?**
-→ [Sertifikat Xəritəsinə bax](./Belgeler/Dokumanlar/Proqramlasdirma_Sertifikat_Xeritesi.html)
+→ [Sertifikat Xəritəsinə bax](./Dokumentler/Sənədlər/Proqramlasdirma_Sertifikat_Xeritesi.html)
 
 **Daha çox sual var?**
-→ [yazilim.md](./Belgeler/yazilim.md) - cavablar orada
+→ [software.md](./Sənədlər/software.md) - cavablar orada
 
 ---
 
