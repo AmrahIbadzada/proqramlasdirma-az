@@ -361,7 +361,7 @@ Frontend planlayanlar üçün - **lazımlı amma vacib deyil.**
 
 ## Geniş Qaynaq Siyahısı
 
-Bağlantılar və digər qaynaqlar üçün [BaglantilarVeBilgiler.md](./BaglantilarVeBilgiler.md) faylına bax.
+Bağlantılar və digər qaynaqlar üçün [BaglantilarVeKecidler.md](./BaglantilarVeKecidler.md) faylına bax.
 
 ---
 
