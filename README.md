@@ -21,7 +21,7 @@ Bu repo Azərbaycan dilində proqramlaşdırma öyrənmək istəyən hər kəs �
 | [Proqramlasdirma.md](./Dokumentler/Sənədlər/Proqramlasdirma.md) | Bütün sahələr: Veb, Bulud, AI, Mobil, DevOps və daha çox |
 | [CV_Challenge.md](./Dokumentler/Sənədlər/Cv_challenge.md) | İş üçün hazır CV necə yazılır |
 | [Musahibe_suallari.md](./Dokumentler/Sənədlər/Musahibe_suallari) | Texniki müsahib sualları və cavabları |
-| [Proqramlasdirma_Sertifikat_Xeritesi](./Dokumentler/Sənədlər/Proqramlasdirma_Sertifikat_Xeritesi.html) | Sahə × Səviyyə vizual sertifikat cədvəli |
+| [Proqramlasdirma_Sertifikat_Xeritesi](Dokumentler/Sənədlər/Proqramlasdirma_Sertifikat_Xeritesi.md) | Sahə × Səviyyə vizual sertifikat cədvəli |
 
 ---
 
@@ -34,10 +34,10 @@ Bu repo Azərbaycan dilində proqramlaşdırma öyrənmək istəyən hər kəs �
 → [roadmap.sh](https://roadmap.sh) - sahəni seç, addımları izlə
 
 **Sertifikat almaq istəyirsən?**
-→ [Sertifikat Xəritəsinə bax](./Dokumentler/Sənədlər/Proqramlasdirma_Sertifikat_Xeritesi.html)
+→ [Sertifikat Xəritəsinə bax](Dokumentler/Sənədlər/Proqramlasdirma_Sertifikat_Xeritesi.md)
 
 **Daha çox sual var?**
-→ [software.md](./Sənədlər/software.md) - cavablar orada
+→ [software.md](Dokumentler/software.md) - cavablar orada
 
 ---
 
