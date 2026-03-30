@@ -57,10 +57,10 @@ Bu repo **canlı** bir sənəddir - hər kəsin töhfəsi ilə böyüyür.
 
 ```bash
 # Repo-nu fork et, dəyişikliyini et, PR göndər
-git clone https://github.com/[repo-adin]/proqramlasdirma-sss
-git checkout -b menim-tokhfem
+git clone https://github.com/[repo-adin]/proqramlasdirma-az
+git checkout -b menim-tovhem
 # Dəyişiklik et...
-git push origin menim-tokhfem
+git push origin menim-tovhem
 ```
 
 Səhv tapdın? Yeni qaynaq bilirsən? Öz təcrübəni paylaşmaq istəyirsən?
