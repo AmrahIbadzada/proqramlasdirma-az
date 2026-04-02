@@ -56,10 +56,20 @@ Hədəfimiz sadədir: Azərbaycandan çıxan proqramçıların sayını artırma
 Bu repo **canlı** bir sənəddir - hər kəsin töhfəsi ilə böyüyür.
 
 ```bash
-# Repo-nu fork et, dəyişikliyini et, PR göndər
-git clone https://github.com/[repo-adin]/proqramlasdirma-az
+# 1. Repo-nu fork et (GitHub-da "Fork" düyməsi)
+
+# 2. Öz fork-unu klon et
+git clone https://github.com/[USERNAME]/proqramlasdirma-az.git
+
+# 3. Repo-ya daxil ol
+cd proqramlasdirma-az
+
+# 4. Yeni branch yarat
 git checkout -b menim-tovhem
-# Dəyişiklik et...
+
+# 5. Dəyişiklik et və commit et
+
+# 6. Push et
 git push origin menim-tovhem
 ```
 
