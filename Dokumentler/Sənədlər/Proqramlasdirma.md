@@ -359,7 +359,7 @@ Görsel iş axını idarəetmə metodologiyası. Scrum qədər strukturlu deyil.
 2. **GitHub-dan istifadə et** — Hər layihəni public qoy
 3. **Sənədlər oxu** — Documentation oxumaq vərdişi şərtdir
 4. **Xətalara qorxma** — Xəta mesajını tam oxu, Google-da axtar
-5. **Toplulukda ol** — Stack Overflow, Discord, Reddit-də sual sor
+5. **Toplulukda ol** — Stack Overflow, Discord, Reddit-də suallar ver
 6. **Açıq mənbəyə töhfə ver** — "Good First Issue" etiketli məsələlərə bax
 7. **Sertifikat + portfolio** — İkisi birlikdə ən güclü CV kombinasiyasıdır
 8. **Daima öyrən** — Texnologiya sürətlə dəyişir, öyrənmək heç bitmir
