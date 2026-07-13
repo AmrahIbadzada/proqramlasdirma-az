@@ -14,10 +14,10 @@
 Uzun cavab:
 - **Python** → Ən sadə sintaksis, Data Science/AI/ML üçün standart, avtomatlaşdırma, backend
 - **JavaScript** → Brauzerdə işləyir, nəticəni dərhal görürsən, veb üçün zəruridir
-- **Java** → Korporativ dünya, Android, uzunmüddətli karyera planı
+- **Java** → Korporativ dünya, Backend hissəsində, Android, uzunmüddətli karyera planı
 - **Kotlin** → Java-nın müasir alternativi, Android üçün tövsiyə edilən rəsmi dil
 - **Swift** → iOS/macOS tətbiqləri
-- **C#** → Oyun (Unity), Windows tətbiqləri, Microsoft ekosistemi
+- **C#** → Oyun (Unity), Windows tətbiqləri, Backend, Microsoft ekosistemi
 - **Go** → Yüksək performanslı backend xidmətləri, DevOps alətləri
 - **Rust** → Sistem proqramlaşdırması, performans kritik tətbiqlər
 
