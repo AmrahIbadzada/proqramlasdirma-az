@@ -355,16 +355,18 @@ Görsel iş axını idarəetmə metodologiyası. Scrum qədər strukturlu deyil.
 
 ## Proqramçı Olmaq Üçün Tövsiyələr
 
-1. **Bir şey qur** — Sadəcə kurs izləmə, tətbiq et
-2. **GitHub-dan istifadə et** — Hər layihəni public qoy
-3. **Sənədlər oxu** — Documentation oxumaq vərdişi şərtdir
-4. **Xətalara qorxma** — Xəta mesajını tam oxu, Google-da axtar
-5. **Toplulukda ol** — Stack Overflow, Discord, Reddit-də suallar ver
-6. **Açıq mənbəyə töhfə ver** — "Good First Issue" etiketli məsələlərə bax
-7. **Sertifikat + portfolio** — İkisi birlikdə ən güclü CV kombinasiyasıdır
-8. **Daima öyrən** — Texnologiya sürətlə dəyişir, öyrənmək heç bitmir
+1. **Hədəf təyin et** — Öyrənmək istədiyin proramlaşdlrma dilini seç
+2. **Bir şey qur** — Sadəcə kurs izləmə, tətbiq et
+3. **GitHub-dan istifadə et** — Hər layihəni public qoy
+5. **Sənədlər oxu** — Documentation oxumaq vərdişi şərtdir
+6. **Xətalara qorxma** — Xəta mesajını tam oxu, Google-da axtar
+7. **İcmalara qatıl** — Stack Overflow, Discord, Reddit-də suallar ver
+8. **Özünə meydan oxu** — Özünü inkişaf etdirəcək çətinliklər yarat
+9. **Açıq mənbəyə töhfə ver** — "Good First Issue" etiketli məsələlərə bax
+10. **Sertifikat + portfolio** — İkisi birlikdə ən güclü CV kombinasiyasıdır
+11. **Daima öyrən** — Texnologiya sürətlə dəyişir, öyrənmək heç bitmir. Bu davamlı öyrənməli və inkişaf etməli olduğun yoldur
 
 ---
 
-> 📅 Son yenilənmə: Fevral 2026 
+> 📅 Son yenilənmə: İyul 2026 
 
