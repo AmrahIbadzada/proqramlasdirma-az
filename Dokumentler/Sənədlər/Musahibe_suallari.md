@@ -25,9 +25,9 @@ Bu kateqoriyalar müsahibələrdə ən çox çıxır:
 
 ### Məşq üçün Qaynaqlar
 
-- [NeetCode 150](https://neetcode.io/roadmap) — Ən vacib 150 problem, kateqoriyalar üzrə ⭐
-- [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) — Standart problem set
-- [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) — Klassik 75 problem
+- [NeetCode 150](https://neetcode.io/roadmap) - Ən vacib 150 problem, kateqoriyalar üzrə ⭐
+- [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) - Standart problem set
+- [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) - Klassik 75 problem
 
 ---
 
@@ -45,11 +45,11 @@ Bu kateqoriyalar müsahibələrdə ən çox çıxır:
 console.log(x); // undefined (xəta deyil!)
 var x = 5;
 
-// let — TDZ (Temporal Dead Zone)
+// let - TDZ (Temporal Dead Zone)
 console.log(y); // ReferenceError!
 let y = 5;
 
-// const — primitiv dəyər dəyişdirilmir
+// const - primitiv dəyər dəyişdirilmir
 const z = 10;
 z = 20; // TypeError!
 
@@ -63,7 +63,7 @@ obj.a = 2; // ✅ Bu mümkündür
 <details>
 <summary><b>Closure nədir?</b></summary>
 
-Closure — bir funksiyanın özünü əhatə edən leksik mühitə (scope-a) istinad etməsidir. Funksiya icra olunduqdan sonra da outer scope-dakı dəyişkənlərə çata bilir.
+Closure - bir funksiyanın özünü əhatə edən leksik mühitə (scope-a) istinad etməsidir. Funksiya icra olunduqdan sonra da outer scope-dakı dəyişkənlərə çata bilir.
 
 ```javascript
 function counter() {
@@ -78,7 +78,7 @@ const c = counter();
 c.increment(); // 1
 c.increment(); // 2
 c.getCount();  // 2
-// count dəyişkənə xaricdən çatmaq mümkün deyil — encapsulation
+// count dəyişkənə xaricdən çatmaq mümkün deyil - encapsulation
 ```
 
 **Nə üçün vacibdir:** Module pattern, event handlers, memoization, private state.
@@ -125,12 +125,12 @@ async function getData() {
 <details>
 <summary><b>Event Loop nədir?</b></summary>
 
-JavaScript tək axınlı (single-threaded) dildir — eyni anda yalnız bir iş görür. Lakin asinxron əməliyyatları (setTimeout, API çağrısı) Event Loop sayəsində idarə edir:
+JavaScript tək axınlı (single-threaded) dildir - eyni anda yalnız bir iş görür. Lakin asinxron əməliyyatları (setTimeout, API çağrısı) Event Loop sayəsində idarə edir:
 
-1. **Call Stack** — hazırda işləyən funksiyalar
-2. **Web API** — setTimeout, fetch → brauzer burada idarə edir
-3. **Callback Queue** — hazır olan callback-lər gözləyir
-4. **Event Loop** — Call Stack boşaldıqda Queue-dən götürüb Stack-ə atır
+1. **Call Stack** - hazırda işləyən funksiyalar
+2. **Web API** - setTimeout, fetch → brauzer burada idarə edir
+3. **Callback Queue** - hazır olan callback-lər gözləyir
+4. **Event Loop** - Call Stack boşaldıqda Queue-dən götürüb Stack-ə atır
 
 ```javascript
 console.log("1");           // Call Stack
@@ -163,7 +163,7 @@ console.log("3");           // Call Stack
 <details>
 <summary><b>Decorator nədir?</b></summary>
 
-Decorator — bir funksiyanı başqa bir funksiyaya "bürüyən" dizayn patternidir. Funksiyaya davranış əlavə etmək üçün istifadə olunur.
+Decorator - bir funksiyanı başqa bir funksiyaya "bürüyən" dizayn patternidir. Funksiyaya davranış əlavə etmək üçün istifadə olunur.
 
 ```python
 def timer(func):
@@ -190,7 +190,7 @@ hesabla(1000000)
 <details>
 <summary><b>GIL (Global Interpreter Lock) nədir?</b></summary>
 
-GIL — CPython interpreter-in bir anda yalnız bir Python thread-inin icra olmasına imkan verən mexanizmdir.
+GIL - CPython interpreter-in bir anda yalnız bir Python thread-inin icra olmasına imkan verən mexanizmdir.
 
 **Problemi:** Çox nüvəli prosessoru tam istifadə edə bilmirsən (CPU-bound işlər üçün).
 
@@ -210,7 +210,7 @@ GIL — CPython interpreter-in bir anda yalnız bir Python thread-inin icra olma
 
 1. **OOP nədir (Obyekt yönümlü proqramlaşdırma):**  Kodun daha nizamlı, təkrar istifadə oluna bilən və asan idarə edilən olmasını təmin edən proqramlaşdırma yanaşması.
 2. **Encapsulation (Gizlətmə):** Məlumatları `private` saxla, `getter/setter` ilə idarə et
-3. **Inheritance (Miras):** `extends` — alt sinif üst sinfin xüsusiyyətlərini miras alır
+3. **Inheritance (Miras):** `extends` - alt sinif üst sinfin xüsusiyyətlərini miras alır
 4. **Polymorphism (Çoxbiçimlilik):** Eyni ad, fərqli davranış (Override, Overload)
 5. **Abstraction (Soyutlama):** Abstract class / Interface ilə tətbiqat detallarını gizlət
 
@@ -277,7 +277,7 @@ LEFT JOIN orders o ON u.id = o.user_id;
 <details>
 <summary><b>Index nədir, nə vaxt istifadə edilir?</b></summary>
 
-Index — cədvəldəki sorğuların sürətini artırmaq üçün yaradılan məlumat strukturudur (B-tree əsaslı).
+Index - cədvəldəki sorğuların sürətini artırmaq üçün yaradılan məlumat strukturudur (B-tree əsaslı).
 
 ```sql
 -- Index yaratmaq
@@ -345,10 +345,10 @@ CREATE INDEX idx_user_email ON users(email);
 ## Davranış Sualları (Behavioral)
 
 Bu suallar üçün **STAR metodundan** istifadə et:
-- **S**ituation — Hansı kontekst/vəziyyət idi?
-- **T**ask — Sənin roluun nə idi?
-- **A**ction — Nə etdin?
-- **R**esult — Nəticə nə oldu?
+- **S**ituation - Hansı kontekst/vəziyyət idi?
+- **T**ask - Sənin roluun nə idi?
+- **A**ction - Nə etdin?
+- **R**esult - Nəticə nə oldu?
 
 <details>
 <summary><b>Özünü tanıt</b></summary>
@@ -366,7 +366,7 @@ Bu suallar üçün **STAR metodundan** istifadə et:
 <details>
 <summary><b>Ən böyük zəif cəhətin nədir?</b></summary>
 
-**Nə etmə:** "Çox çalışıram" kimi saxta cavab vermə — işəgötürən bilir.
+**Nə etmə:** "Çox çalışıram" kimi saxta cavab vermə - işəgötürən bilir.
 
 **Nə et:** Real bir zəif cəhəti söylə + üzərindən işlədiyini göstər.
 
@@ -407,12 +407,12 @@ Bu suallar üçün **STAR metodundan** istifadə et:
 
 ## Faydalı Qaynaqlar
 
-- [NeetCode.io](https://neetcode.io) — LeetCode problemi + video həll ⭐
-- [Pramp](https://pramp.com) — Canlı mock müsahib (pulsuz)
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) — Tam rehber ⭐
-- [interviewing.io](https://interviewing.io) — Anonim mock müsahib
-- [Glassdoor](https://glassdoor.com) — Şirkət müsahib sualları
+- [NeetCode.io](https://neetcode.io) - LeetCode problemi + video həll ⭐
+- [Pramp](https://pramp.com) - Canlı mock müsahib (pulsuz)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Tam rehber ⭐
+- [interviewing.io](https://interviewing.io) - Anonim mock müsahib
+- [Glassdoor](https://glassdoor.com) - Şirkət müsahib sualları
 
 ---
 
-> 📅 Son yenilənmə: Fevral 2026
+> 📅 Son yenilənmə: Iyul 2026
