@@ -208,10 +208,11 @@ GIL — CPython interpreter-in bir anda yalnız bir Python thread-inin icra olma
 <details>
 <summary><b>OOP-nun 4 əsas prinsipi nədir?</b></summary>
 
-1. **Encapsulation (Gizlətmə):** Məlumatları `private` saxla, `getter/setter` ilə idarə et
-2. **Inheritance (Miras):** `extends` — alt sinif üst sinfin xüsusiyyətlərini miras alır
-3. **Polymorphism (Çoxbiçimlilik):** Eyni ad, fərqli davranış (Override, Overload)
-4. **Abstraction (Soyutlama):** Abstract class / Interface ilə tətbiqat detallarını gizlət
+1. **OOP nədir (Obyekt yönümlü proqramlaşdırma):**  Kodun daha nizamlı, təkrar istifadə oluna bilən və asan idarə edilən olmasını təmin edən proqramlaşdırma yanaşması.
+2. **Encapsulation (Gizlətmə):** Məlumatları `private` saxla, `getter/setter` ilə idarə et
+3. **Inheritance (Miras):** `extends` — alt sinif üst sinfin xüsusiyyətlərini miras alır
+4. **Polymorphism (Çoxbiçimlilik):** Eyni ad, fərqli davranış (Override, Overload)
+5. **Abstraction (Soyutlama):** Abstract class / Interface ilə tətbiqat detallarını gizlət
 
 ```java
 // Polymorphism nümunəsi
