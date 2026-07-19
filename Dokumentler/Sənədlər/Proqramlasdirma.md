@@ -50,6 +50,27 @@ Həm frontend, həm backend üzərində işləyir. Kiçik komandalar və startap
 - **LAMP:** Linux + Apache + MySQL + PHP
 - **JAMStack:** JavaScript + API + Markup
 
+
+## Sistem Proqramlaşdırması nədir?
+
+Kompüter avadanlığı ilə qarşılıqlı əlaqədə olan və tətbiqi proqramlara müxtəlif xidmətlər göstərən proqramlar "sistem proqramları", onlarla əlaqəli proqramlaşdırma sahəsi isə "sistem proqramlaşdırması" adlanır. Sistem proqramlaşdırma fəaliyyətləri aşağı səviyyəli olmağa meyllidir. Onları yazmaq üçün əhəmiyyətli nəzəri biliklər və praktik bacarıqlar tələb olunur. Sistem proqramlaşdırması ağır proqram təminatı sənayesidir. Microsoft və Apple kimi İT sektorundakı bir çox böyük şirkət, hazırladıqları sistem proqramları ilə bu nöqtəyə çatıb. Bəzi tipik sistem proqramları bunlardır:
+
+- Əməliyyat Sistemləri
+- Kompilyatorlar və interpretatorlar
+- Redaktorlar
+- Sazlama Proqramları
+- Virus və Antivirus proqramları
+- Rabitə proqramları
+- Daxili sistem proqramları
+- Periferik cihazların və digər aparat cihazlarının və cihaz drayverlərinin proqramlaşdırılması
+- Verilənlər bazası mühərrikləri
+- Virtuallaşdırma proqram təminatı və emulator proqram təminatı
+- Oyun mühərrikləri
+
+Sistem proqramlaşdırma fəaliyyətləri üçün ən çox istifadə edilən proqramlaşdırma dilləri C, C++ və Simvolik Maşın Dilləridir (Assembly Dilləri). Əlbəttə ki, bəzi sistem proqramları C#, Java və hətta Python kimi dillərdə də yazıla bilər. Lakin, C/C++ dilləri əsasən sistem proqramlaşdırmasında ixtisaslaşıb.
+
+https://github.com/CSD-1993/KursNotlari
+
 ---
 
 ## Bulud Hesablama (Cloud Computing)
