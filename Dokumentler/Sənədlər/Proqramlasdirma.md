@@ -69,6 +69,8 @@ Kompüter avadanlığı ilə qarşılıqlı əlaqədə olan və tətbiqi proqram
 
 Sistem proqramlaşdırma fəaliyyətləri üçün ən çox istifadə edilən proqramlaşdırma dilləri C, C++ və Simvolik Maşın Dilləridir (Assembly Dilləri). Əlbəttə ki, bəzi sistem proqramları C#, Java və hətta Python kimi dillərdə də yazıla bilər. Lakin, C/C++ dilləri əsasən sistem proqramlaşdırmasında ixtisaslaşıb.
 
+https://github.com/CSD-1993/KursNotlari
+
 ---
 
 ## Bulud Hesablama (Cloud Computing)
